@@ -4,10 +4,11 @@ body{
 }
 
 h1{
-	font-size: 30px
+	font-size: 30px;
 	font-family: 'algerian';
-	color: black;
+	color: white;
 	font-size: 20px;
 	font-weight: bold;
-	text-align: center
+	text-align: center;
+	background:black;
 }
